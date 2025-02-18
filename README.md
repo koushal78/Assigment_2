@@ -1,8 +1,32 @@
-# React + Vite
+# Pokémon Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React.js application that fetches Pokémon data from the PokeAPI and displays it in a clean, responsive UI. Users can search for Pokémon by name and view their images.
 
-Currently, two official plugins are available:
+## Live Demo
+Experience the app live: [Pokémon Finder](https://pokemon-fineder.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+Follow these steps to set up the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/pokemon-finder-app.git
+   cd pokemon-finder-app
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm start
+   ```
+
+4. **Open the app:**
+   Visit `http://localhost:3000` in your browser to view the app.
+
+---
+Enjoy exploring the world of Pokémon! 🚀
+
